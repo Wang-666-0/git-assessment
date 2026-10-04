@@ -1,1 +1,1 @@
-// Git merge demo: main
+// Git merge demo: main and feature
