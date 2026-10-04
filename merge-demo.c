@@ -3,3 +3,4 @@
 // Git collaboration demo: B
 
 // Git VS Code demo
+// Git VS Code branch merge demo
