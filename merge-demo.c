@@ -4,5 +4,3 @@
 
 // Git VS Code demo
 // Git VS Code branch merge demo
-
-// Git VS Code revert demo
