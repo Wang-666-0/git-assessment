@@ -17,4 +17,4 @@ Listings/
 # 本机界面与调试记录
 *.uvguix.*
 *.uvoptx
-*.scvd
+*.scvdignore-demo.txt
