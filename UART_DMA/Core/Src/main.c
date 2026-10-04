@@ -230,4 +230,8 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
+<<<<<<< HEAD
 
+=======
+// Git revert demo
+>>>>>>> parent of 59b9efe (Revert "test: 添加revert演示注释")
