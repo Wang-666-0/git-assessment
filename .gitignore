@@ -1,0 +1,20 @@
+# Keil 编译输出目录
+Objects/
+Listings/
+
+# 编译产物
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.lnp
+*.lst
+*.dep
+*.build_log.htm
+
+# 本机界面与调试记录
+*.uvguix.*
+*.uvoptx
+*.scvd
