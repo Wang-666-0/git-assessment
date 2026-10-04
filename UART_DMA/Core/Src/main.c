@@ -101,7 +101,7 @@ int main(void)
             Error_Handler();
         }
 
-    /* ²»ÐèÒª°ë»º³åÇøÍ¨Öª */
+    /*     Òª ë»º    Í¨Öª */
     __HAL_DMA_DISABLE_IT(huart1.hdmarx, DMA_IT_HT);
 
   /* USER CODE END 2 */
@@ -230,4 +230,4 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
-// Git conflict demo: version 1
+// Git conflict demo: version 2
